@@ -1,0 +1,75 @@
+Sure! Here's a structured list of the **most important topics in Supervised Learning**, especially tailored to your **automotive + embedded + AIML background** (as per your #JD and #info).
+
+---
+
+## ✅ **Core Topics in Supervised Learning**
+
+### 📘 A. **Regression Algorithms**
+
+Used when the output is a continuous value (e.g., predicting SOC, voltage, etc.)
+
+1. **Linear Regression**
+2. **Ridge Regression** (L2 Regularization)
+3. **Lasso Regression** (L1 Regularization)
+4. **ElasticNet Regression** (L1 + L2 combined)
+5. **Polynomial Regression**
+6. **Support Vector Regression (SVR)**
+7. **Decision Tree Regression**
+8. **Random Forest Regression**
+9. **Gradient Boosting Regression (GBR, XGBoost, LightGBM)**
+10. **K-Nearest Neighbors Regression (KNN-R)**
+11. **Bayesian Regression**
+
+---
+
+### 📙 B. **Classification Algorithms**
+
+Used when the output is a **label or class** (e.g., “Fail” vs “Pass”, “Fault Type A/B/C”)
+
+1. **Logistic Regression**
+2. **K-Nearest Neighbors (KNN)**
+3. **Support Vector Machines (SVM)**
+4. **Decision Tree Classifier**
+5. **Random Forest Classifier**
+6. **Naive Bayes**
+7. **Gradient Boosting Classifier / XGBoost / LightGBM / CatBoost**
+8. **Neural Network Classifiers (MLP, DNN)**
+9. **Quadratic Discriminant Analysis (QDA)**
+10. **Ensemble Voting / Stacking**
+
+---
+
+### 📗 C. **Model Evaluation & Validation**
+
+Needed for both regression and classification.
+
+1. **Train-Test Split, Cross Validation**
+2. **Confusion Matrix** (for classification)
+3. **Accuracy, Precision, Recall, F1-Score**
+4. **ROC-AUC Curve**
+5. **R² Score, MSE, MAE** (for regression)
+6. **Overfitting vs Underfitting**
+7. **Bias-Variance Tradeoff**
+
+---
+
+### 📕 D. **Feature Engineering & Preprocessing**
+
+1. **Scaling (StandardScaler, MinMaxScaler)**
+2. **Encoding (One-Hot, Label Encoding)**
+3. **Feature Selection (using Lasso, Tree-based, or SelectKBest)**
+4. **Feature Transformation (PolynomialFeatures, log, sqrt)**
+5. **Handling Missing Values**
+6. **Outlier Detection**
+7. **Dimensionality Reduction (PCA, LDA)**
+
+---
+
+### 📙 E. **Model Tuning & Deployment**
+
+1. **Hyperparameter Tuning (GridSearchCV, RandomSearchCV)**
+2. **Cross-Validation Techniques**
+3. **Model Saving (Pickle/Joblib)**
+4. **Pipeline Construction (sklearn Pipelines)**
+
+---
