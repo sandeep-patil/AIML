@@ -1,4 +1,4 @@
-# AIML Journey & Projects Repository
+# AIML Portfolio: Learning to Application
 
 Welcome! This repository is a **comprehensive collection of my AI/ML learning and implementation work**, developed during my M.Tech in Artificial Intelligence and Machine Learning from BITS Pilani, and updated continuously as I progress in this field.
 
