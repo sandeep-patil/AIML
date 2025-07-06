@@ -1,0 +1,13 @@
+2025-07-07 00:07:30,094 - INFO -  Entered train_random_forest_model()
+2025-07-07 00:07:32,534 - INFO - Cross-validated F1 Scores: [0.88372093 0.74418605 0.84444444 0.69767442 0.71794872]
+2025-07-07 00:07:32,986 - INFO - Model saved as '../model.pkl'
+2025-07-07 00:07:33,033 - INFO - 
+ Test Set Performance:
+2025-07-07 00:07:33,033 - INFO - Accuracy:        0.8852
+2025-07-07 00:07:33,033 - INFO - Precision:       0.8387
+2025-07-07 00:07:33,033 - INFO - Recall:          0.9286
+2025-07-07 00:07:33,033 - INFO - F1 Score:        0.8814
+2025-07-07 00:07:33,033 - INFO - ROC AUC Score:   0.9545
+2025-07-07 00:07:33,033 - INFO - Confusion Matrix:
+2025-07-07 00:07:33,033 - INFO - [[28  5]
+ [ 2 26]]

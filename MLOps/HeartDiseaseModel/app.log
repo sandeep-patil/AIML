@@ -1,0 +1,17 @@
+2025-07-07 00:08:23,447 - INFO - Model.pkl loaded successfully
+2025-07-07 00:08:23,447 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:09:11,649 - INFO - FastAPI app shutting down.
+2025-07-07 00:09:37,577 - INFO - Model.pkl loaded successfully
+2025-07-07 00:09:37,585 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:11:37,270 - INFO - Model.pkl loaded successfully
+2025-07-07 00:11:37,309 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:12:27,975 - INFO - FastAPI app shutting down.
+2025-07-07 00:12:40,483 - INFO - Model.pkl loaded successfully
+2025-07-07 00:12:40,496 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:15:33,954 - INFO - Model.pkl loaded successfully
+2025-07-07 00:15:33,972 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:16:47,051 - INFO - FastAPI app shutting down.
+2025-07-07 00:16:57,321 - INFO - Model.pkl loaded successfully
+2025-07-07 00:16:57,321 - INFO - FastAPI app started and ready to receive requests.
+2025-07-07 00:17:20,108 - INFO - Prediction result: Heart Disease Detected
+2025-07-07 00:17:27,264 - INFO - FastAPI app shutting down.
