@@ -2,9 +2,9 @@
 # ❤️ Heart Disease Prediction API
 
 This project provides two interfaces to predict heart disease using a trained machine learning model:
-- 🔹 A **FastAPI** backend (REST API)
-- 🔹 A **Streamlit** frontend (web UI)
-- 🔹 Model training and evaluation pipeline using scikit-learn
+- A **FastAPI** backend (REST API)
+- A **Streamlit** frontend (web UI)
+- Model training and evaluation pipeline using scikit-learn
 
 ---
 
@@ -65,7 +65,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## Sample API Call (via cURL)
+## 5. Sample API Call (via cURL)
 
 ```bash
 curl -X POST http://localhost:8000/predict \
@@ -98,7 +98,7 @@ Expected response:
 
 ---
 
-## Docker 
+## 6. Docker 
 
 ### Build and Run FastAPI Container
 
@@ -109,7 +109,7 @@ docker run -d -p 8000:8000 heart-disease-api
 
 ---
 
-## Run Tests
+## 7. Run Tests
 
 ```bash
 pytest tests/
